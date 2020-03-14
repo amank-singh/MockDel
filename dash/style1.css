@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Abel|Open+Sans|Roboto&display=swap');
+
+.welcome {
+  color: #CCC;
+}
+.welcome .content {
+  background-color: #313348;
+  padding: 15px;
+  margin-top: 25px;
+}
+.welcome h2 {
+  font-family: Calibri;
+  font-weight: 100;
+  margin-top: 0
+}
+.welcome p {
+  color: #999;
+}
+
